@@ -74,42 +74,42 @@ const BookShow = ({ match }) => {
                 <br/>
                 <br/>
                 <br/>
-                <Link to={`${match.url}/21/pay`} id='21' className='link'>31</Link>
-                <Link to={`${match.url}/22/pay`} id='22' className='link'>32</Link>
-                <Link to={`${match.url}/23/pay`} id='23' className='link'>33</Link>
-                <Link to={`${match.url}/24/pay`} id='24' className='link'>34</Link>
-                <Link to={`${match.url}/25/pay`} id='25' className='link'>35</Link>
-                <Link to={`${match.url}/26/pay`} id='26' className='link'>36</Link>
-                <Link to={`${match.url}/27/pay`} id='27' className='link'>37</Link>
-                <Link to={`${match.url}/28/pay`} id='28' className='link'>38</Link>
-                <Link to={`${match.url}/29/pay`} id='29' className='link'>39</Link>
-                <Link to={`${match.url}/30/pay`} id='30' className='link'>40</Link>
+                <Link to={`${match.url}/31/pay`} id='31' className='link'>31</Link>
+                <Link to={`${match.url}/32/pay`} id='32' className='link'>32</Link>
+                <Link to={`${match.url}/33/pay`} id='33' className='link'>33</Link>
+                <Link to={`${match.url}/34/pay`} id='34' className='link'>34</Link>
+                <Link to={`${match.url}/35/pay`} id='35' className='link'>35</Link>
+                <Link to={`${match.url}/36/pay`} id='36' className='link'>36</Link>
+                <Link to={`${match.url}/37/pay`} id='37' className='link'>37</Link>
+                <Link to={`${match.url}/38/pay`} id='38' className='link'>38</Link>
+                <Link to={`${match.url}/39/pay`} id='39' className='link'>39</Link>
+                <Link to={`${match.url}/40/pay`} id='40' className='link'>40</Link>
                 <br/>
                 <br/>
                 <br/>
-                <Link to={`${match.url}/21/pay`} id='21' className='link'>41</Link>
-                <Link to={`${match.url}/22/pay`} id='22' className='link'>42</Link>
-                <Link to={`${match.url}/23/pay`} id='23' className='link'>43</Link>
-                <Link to={`${match.url}/24/pay`} id='24' className='link'>44</Link>
-                <Link to={`${match.url}/25/pay`} id='25' className='link'>45</Link>
-                <Link to={`${match.url}/26/pay`} id='26' className='link'>46</Link>
-                <Link to={`${match.url}/27/pay`} id='27' className='link'>47</Link>
-                <Link to={`${match.url}/28/pay`} id='28' className='link'>48</Link>
-                <Link to={`${match.url}/29/pay`} id='29' className='link'>49</Link>
-                <Link to={`${match.url}/30/pay`} id='30' className='link'>50</Link>
+                <Link to={`${match.url}/41/pay`} id='41' className='link'>41</Link>
+                <Link to={`${match.url}/42/pay`} id='42' className='link'>42</Link>
+                <Link to={`${match.url}/43/pay`} id='43' className='link'>43</Link>
+                <Link to={`${match.url}/44/pay`} id='44' className='link'>44</Link>
+                <Link to={`${match.url}/45/pay`} id='45' className='link'>45</Link>
+                <Link to={`${match.url}/46/pay`} id='46' className='link'>46</Link>
+                <Link to={`${match.url}/47/pay`} id='47' className='link'>47</Link>
+                <Link to={`${match.url}/48/pay`} id='48' className='link'>48</Link>
+                <Link to={`${match.url}/49/pay`} id='49' className='link'>49</Link>
+                <Link to={`${match.url}/50/pay`} id='50' className='link'>50</Link>
                 <br/>
                 <br/>
                 <br/>
-                <Link to={`${match.url}/21/pay`} id='21' className='link'>51</Link>
-                <Link to={`${match.url}/22/pay`} id='22' className='link'>52</Link>
-                <Link to={`${match.url}/23/pay`} id='23' className='link'>53</Link>
-                <Link to={`${match.url}/24/pay`} id='24' className='link'>54</Link>
-                <Link to={`${match.url}/25/pay`} id='25' className='link'>55</Link>
-                <Link to={`${match.url}/26/pay`} id='26' className='link'>56</Link>
-                <Link to={`${match.url}/27/pay`} id='27' className='link'>57</Link>
-                <Link to={`${match.url}/28/pay`} id='28' className='link'>58</Link>
-                <Link to={`${match.url}/29/pay`} id='29' className='link'>59</Link>
-                <Link to={`${match.url}/30/pay`} id='30' className='link'>60</Link>
+                <Link to={`${match.url}/51/pay`} id='51' className='link'>51</Link>
+                <Link to={`${match.url}/52/pay`} id='52' className='link'>52</Link>
+                <Link to={`${match.url}/53/pay`} id='53' className='link'>53</Link>
+                <Link to={`${match.url}/54/pay`} id='54' className='link'>54</Link>
+                <Link to={`${match.url}/55/pay`} id='55' className='link'>55</Link>
+                <Link to={`${match.url}/56/pay`} id='56' className='link'>56</Link>
+                <Link to={`${match.url}/57/pay`} id='57' className='link'>57</Link>
+                <Link to={`${match.url}/58/pay`} id='58' className='link'>58</Link>
+                <Link to={`${match.url}/59/pay`} id='59' className='link'>59</Link>
+                <Link to={`${match.url}/60/pay`} id='60' className='link'>60</Link>
             </div>
         </div>
     );

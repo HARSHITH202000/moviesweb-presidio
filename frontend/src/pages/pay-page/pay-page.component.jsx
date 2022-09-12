@@ -75,6 +75,7 @@ class PayPage extends React.Component {
                         <div>
                             
                             <span className='mx-auto'>Total amount to be paid: Rs.{this.props.match.params.seat*100}</span>
+                            <span className='mx-auto'>Remaining Seats: {60-this.props.match.params.seat}</span>
                         </div>
                         <button className='btn btn-danger text-white'><a href="/">Home Page</a></button>
                     </form>

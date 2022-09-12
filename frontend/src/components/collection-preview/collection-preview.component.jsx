@@ -4,7 +4,7 @@ import './collection-preview.styles.scss';
 import CollectionItem from '../collection-item/collection-item.component';
 
 const CollectionPreview = ({collectionType, collections}) => (
-    <div className='collection-preview'>
+    <div className='collection-preview mx-auto text-center'>
         {
             (() => {
                 let collectionsNowShowing = collections;

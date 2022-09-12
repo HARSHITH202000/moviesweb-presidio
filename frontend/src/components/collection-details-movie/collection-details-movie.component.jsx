@@ -44,7 +44,7 @@ class CollectionDetailsMovie extends React.Component {
         const currentCollection = collections.find(collection => collection.imdbID === this.props.match.params.imdbID);
         console.log(currentCollection);
         if(currentCollection===undefined){
-            return(<h1>The movie with the imdbID does not exist</h1>);
+            return(<h1 className='text-center'>404! Sorry this page is not found</h1>);
         }
 
         return(
