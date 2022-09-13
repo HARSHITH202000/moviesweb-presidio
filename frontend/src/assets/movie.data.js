@@ -6433,7 +6433,7 @@ const MOVIE_DATA = [
     Production: "Lionsgate",
     Website: "N/A",
     Response: "True",
-  },
-];
+  }
+]
 
 export default MOVIE_DATA;
