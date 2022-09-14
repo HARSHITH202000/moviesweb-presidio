@@ -40,8 +40,9 @@ class CollectionDetailsMovie extends React.Component {
     }
 
     render() {
-        const collections = MOVIE_DATA;
+        const collections = MOVIE_DATA
         const currentCollection = collections.find(collection => collection.imdbID === this.props.match.params.imdbID);
+        // const currentCollection=fetch('http://localhost:3001/api/fetchdata');
         console.log(currentCollection);
         if(currentCollection===undefined){
             return(<h1 className='text-center'>404! Sorry this page is not found</h1>);
